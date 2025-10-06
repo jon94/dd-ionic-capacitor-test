@@ -1,0 +1,7 @@
+{
+  "name": "dd-ionic-capacitor-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
